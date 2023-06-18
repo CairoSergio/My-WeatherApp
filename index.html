@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="pt">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="./fontawesome-free-6.4.0-web/fontawesome-free-6.4.0-web/css/all.css">
+    <link rel="stylesheet" href="./fontawesome-free-6.4.0-web/fontawesome-free-6.4.0-web/css/fontawesome.css">
+    <title>MY WEATHER APP</title>
+</head>
+<body>
+    <main class="Container">
+        <header class="Header">
+            <nav class="navigation">
+                <h1 class="logo">
+                    MY WEATHER
+                </h1>
+                <a href="https://github.com/CairoSergio">
+                    <i class="fa-brands fa-github" style="font-size: 24px; color: #f0f8ff;"></i>
+                </a>
+            </nav>
+        </header>
+        <section id="Weatherform" class="Content">
+            <h1 class="welcome-text">
+                WELCOME
+            </h1>
+            <h2 class="Presentation-Text">
+                Coloque o nome da cidade que você deseja saber as informações meteorologicas.
+            </h2>
+            <input id="input" type="search" class="City-Input" placeholder="Nome da cidade" />
+            <button id="button" onclick="OpenCart()" class="search-btn">
+                Procurar
+            </button>
+        </section>
+        <section id="WeatherCart" class="Content invisivel">
+        </section>
+        <section id="404" class="Content invisivel">
+            <div class="Contaiber-404">
+                <strong>404</strong>
+                <div class="division"></div>
+                <h1>Cidade não encontrada</h1>
+            </div>
+            <button onclick="CloseCart()" class="search-btn">
+                Voltar Para Pagina inicial
+            </button>
+        </section>
+        <script src="./script.js"></script>
+    </main>
+</body>
+</html>
