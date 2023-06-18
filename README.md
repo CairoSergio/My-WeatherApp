@@ -12,11 +12,16 @@ Este projeto é um aplicativo web desenvolvido em HTML, CSS e JavaScript que con
 ## Pré-requisitos
 Antes de executar o projeto, certifique-se de ter instalado:
 
-<code>Navegador web (Google Chrome, Mozilla Firefox, etc.)</code>
+<code>Navegador web (Google Chrome, Mozilla Firefox, etc.)
+
 Como executar o projeto
+
 Faça o download ou clone este repositório.
+
 Navegue até o diretório raiz do projeto.
+
 Abra o arquivo index.html em seu navegador web.
+</code>
 Personalização
 Se desejar personalizar o projeto, você pode fazer o seguinte:
 
