@@ -1,4 +1,4 @@
-#M Weather App
+#My Weather App
 
 ###Descrição curta do projeto em uma ou duas frases.
 
