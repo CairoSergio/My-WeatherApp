@@ -22,6 +22,6 @@ Abra o arquivo index.html em seu navegador web.
 # Personalização
 Se desejar personalizar o projeto, você pode fazer o seguinte:
 
-Modificar o estilo da aplicação editando o arquivo CSS <code>(style.css).
-Adicionar ou remover informações exibidas alterando o arquivo JavaScript <code>(script.js).
+Modificar o estilo da aplicação editando o arquivo CSS <code>(style.css).</code>
+Adicionar ou remover informações exibidas alterando o arquivo JavaScript <code>(script.js)</code>.
 Utilizar outras APIs para obter informações adicionais ou expandir as funcionalidades.
