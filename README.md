@@ -1,16 +1,15 @@
 # My Weather App
 
-### Descrição curta do projeto em uma ou duas frases.
-
 ### Visão geral
 Este projeto é um aplicativo web desenvolvido em HTML, CSS e JavaScript que consome a API OpenWeather para exibir informações meteorológicas da cidade inserida pelo usuário.
 
 ## Funcionalidades
 <li>Permite ao usuário inserir o nome de uma cidade.<li/>
-Faz uma solicitação à API OpenWeather para obter os dados meteorológicos da cidade.
-Exibe as informações meteorológicas, como temperatura, condições climáticas, umidade, etc.
-Apresenta uma interface amigável e responsiva.
-Pré-requisitos
+<li>Faz uma solicitação à API OpenWeather para obter os dados meteorológicos da cidade.</li>
+<li>Exibe as informações meteorológicas, como temperatura, condições climáticas, umidade, etc.</li>
+<li>Apresenta uma interface amigável e responsiva.</li>
+
+## Pré-requisitos
 Antes de executar o projeto, certifique-se de ter instalado:
 
 Navegador web (Google Chrome, Mozilla Firefox, etc.)
