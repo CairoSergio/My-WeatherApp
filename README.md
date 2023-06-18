@@ -18,12 +18,14 @@ Faça o download ou clone este repositório.
 Navegue até o diretório raiz do projeto.
 Abra o arquivo index.html em seu navegador web.
 </code>
-Personalização
+
+# Personalização
 Se desejar personalizar o projeto, você pode fazer o seguinte:
 
-Modificar o estilo da aplicação editando o arquivo CSS (style.css).
-Adicionar ou remover informações exibidas alterando o arquivo JavaScript (script.js).
-Utilizar outras APIs para obter informações adicionais ou expandir as funcionalidades.
+## Modificar o estilo da aplicação editando o arquivo CSS <code>(style.css).
+## Adicionar ou remover informações exibidas alterando o arquivo JavaScript (script.js).
+## Utilizar outras APIs para obter informações adicionais ou expandir as funcionalidades.
+
 Recursos adicionais
 Documentação da API OpenWeather
 Contribuição
