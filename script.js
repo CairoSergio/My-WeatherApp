@@ -149,7 +149,7 @@ const images = {
 
 const useWeatherData = async (city) => {
   // Get current weather data
-  const currentUrl = `http://api.openweathermap.org/data/2.5/weather?q=${city}&appid=${API_KEY}&units=metric`;
+  const currentUrl = `https://api.openweathermap.org/data/2.5/weather?q=${city}&appid=${API_KEY}&units=metric`;
   const currentResponse = await fetch(currentUrl)
   .then(function(resp) { return resp.json() }) // Convert data to json
   .then(function(data) {
