@@ -108,8 +108,6 @@ function CloseCart(){
 }
 
 
-
-
 const API_KEY = '8506c827cd8a05c14f80fe25e442fc55';
 const translations = {
   // English => Portuguese translations
